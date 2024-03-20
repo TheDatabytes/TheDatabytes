@@ -31,7 +31,7 @@
     <br />
     <a href="">View Demo</a>
     ·
-    <a href="">Report Bug</a>
+    <a href="https://github.com/TheDatabytes/TheDatabytes/issues">Report Bug</a>
     ·
     <a href="">Request Feature</a>
   </p>
