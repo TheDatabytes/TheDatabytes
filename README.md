@@ -29,11 +29,11 @@ Main display. Simple is more-->
 
 ## 🌟 About Us
 
-- 🛠 We specialize in [Your Specialization - e.g., full-stack web development, cybersecurity solutions].
+- 🛠 We specialize in full-stack web development, cybersecurity solutions, & digital marketing.
 - 🎯 Currently working on [_____________].
 - 🌱 Learning [What we're Currently Learning].
-- 💬 Ask me about [Topics You're Open to Discuss].
-- 📫 How to reach me: [Your Contact Information].
+- 💬 Ask us about [Topics You're Open to Discuss].
+- 📫 How to reach us: [Your Contact Information].
 
 ## 🔒 My Commitment to Security
 
