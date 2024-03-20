@@ -27,11 +27,11 @@ Main display. Simple is more-->
 
 👋 Hi, I'm [Your Name]! Welcome to my digital garden, where I share my journey in open-source development, with a keen focus on building secure, efficient, and transparent software. My passion lies in [Your Interest Areas - e.g., web development, cybersecurity, machine learning], and I believe in the power of community collaboration to drive innovation.
 
-## 🌟 About Me
+## 🌟 About Us
 
-- 🛠 I specialize in [Your Specialization - e.g., full-stack web development, cybersecurity solutions].
-- 🎯 Currently working on [Brief Description of Your Current Projects].
-- 🌱 Learning [What You're Currently Learning].
+- 🛠 We specialize in [Your Specialization - e.g., full-stack web development, cybersecurity solutions].
+- 🎯 Currently working on [_____________].
+- 🌱 Learning [What we're Currently Learning].
 - 💬 Ask me about [Topics You're Open to Discuss].
 - 📫 How to reach me: [Your Contact Information].
 
