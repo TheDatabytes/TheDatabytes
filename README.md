@@ -23,9 +23,9 @@ Main display. Simple is more-->
  
  𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 {𝚌𝚘𝚍𝚎𝚛𝚜} 𝙶𝚛𝚎𝚎𝚝𝚒𝚗𝚐𝚜!
 
-# Welcome to [Your GitHub Username]'s Profile!
+# Welcome to Databytes' GitHub Profile!
 
-👋 Hi, I'm [Your Name]! Welcome to my digital garden, where I share my journey in open-source development, with a keen focus on building secure, efficient, and transparent software. My passion lies in [Your Interest Areas - e.g., web development, cybersecurity, machine learning], and I believe in the power of community collaboration to drive innovation.
+👋 Hi! Welcome to our digital garden, where we share our journey in open-source development, with a keen focus on building secure, efficient, and transparent software. Our passion lies in web development, cybersecurity, machine learning, and we believe in the power of community collaboration to drive innovation.
 
 ## 🌟 About Us
 
