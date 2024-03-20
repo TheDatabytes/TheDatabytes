@@ -64,7 +64,7 @@ Let's connect! Whether you have a question, a project idea, or just want to chat
 
 - [LinkedIn](Your-LinkedIn-Profile)
 - [Twitter](Your-Twitter-Profile)
-- [Email](mailto:YourEmail@example.com)
+- [Email](mailto:_________)
 
 Thank you for stopping by, and I look forward to connecting with you!
 
