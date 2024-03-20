@@ -35,9 +35,9 @@ Main display. Simple is more-->
 - 💬 Ask us about [Topics You're Open to Discuss].
 - 📫 How to reach us: [Your Contact Information].
 
-## 🔒 My Commitment to Security
+## 🔒 Our Commitment to Security
 
-In an era where digital security is paramount, I dedicate a significant portion of my efforts to ensuring that my projects adhere to the highest standards of security. From employing the principle of least privilege in my server configurations to rigorous input validation and encryption, every line of code is written with the safety of users in mind. Here are a few highlights of my security practices:
+In an era where digital security is paramount, we dedicate a significant portion of our efforts to ensuring that our projects adhere to the highest standards of security. From employing the principle of least privilege in our server configurations to rigorous input validation and encryption, every line of code is written with the safety of users in mind. Here are a few highlights of our security practices:
 
 - **Security by Design:** Building with security in mind from the ground up.
 - **Regular Security Audits:** Leveraging both automated tools and community feedback to identify and rectify vulnerabilities.
