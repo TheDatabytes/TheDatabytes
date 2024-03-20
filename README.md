@@ -1,174 +1,253 @@
+
+<!-- Create multiple templates -->
+
+
+<div id="top"></div>
+
+<!-- PROJECT SHIELDS -->
 <!--
-**TheDatabytes/TheDatabytes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-<!--
-**TheDatabytes/TheDatabytes** 
-
-          Keep your code neat
-          Maintain simply structure
-          Refactor when possible
-          And above all else, leave yourself notes, explain the code.
-          Refactor needed. 2024
-
-Include exmaples, links, articles
-modernize, update
-Graphs, visuals, and examples
-Input examples
-2924 update needed
-Research entry point
-
-Take for a full refactor
-
-Main display. Simple is more-->
- 
- 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 {𝚌𝚘𝚍𝚎𝚛𝚜} 𝙶𝚛𝚎𝚎𝚝𝚒𝚗𝚐𝚜!
-
-# Welcome to Databytes' GitHub Profile!
-
-👋 Hi! Welcome to our digital garden, where we share our journey in open-source development, with a keen focus on building secure, efficient, and transparent software. Our passion lies in web development, cybersecurity, machine learning, and we believe in the power of community collaboration to drive innovation.
-
-## 🌟 About Us
-
-- 🛠 We specialize in full-stack web development, cybersecurity solutions, & digital marketing.
-- 🎯 Currently working on [_____________].
-- 🌱 Learning [What we're Currently Learning].
-- 💬 Ask us about [Topics You're Open to Discuss].
-- 📫 How to reach us: [Your Contact Information].
-
-## 🔒 Our Commitment to Security
-
-In an era where digital security is paramount, we dedicate a significant portion of our efforts to ensuring that our projects adhere to the highest standards of security. From employing the principle of least privilege in our server configurations to rigorous input validation and encryption, every line of code is written with the safety of users in mind. Here are a few highlights of our security practices:
-
-- **Security by Design:** Building with security in mind from the ground up.
-- **Regular Security Audits:** Leveraging both automated tools and community feedback to identify and rectify vulnerabilities.
-- **Open to Collaboration:** I actively encourage the community to participate in making the digital world more secure by contributing to my projects.
-
-## 🚀 Featured Projects
-
-Below are some of the projects we're currently working on. Feel free to explore and contribute!
-
-- [Project Name 1](GitHub-Project-Link) - Brief description.
-- [Project Name 2](GitHub-Project-Link) - Brief description.
-- [Project Name 3](GitHub-Project-Link) - Brief description.
-
-## 🤝 How to Contribute
-
-We believe in the power of community and am always open to contributions from fellow developers and security enthusiasts. Whether you're here to fix a bug, offer a suggestion, or just want to say hi, your input is welcome!
-
-- Check out the [CONTRIBUTING.md](Link-to-Contributing-Guidelines) in each project repository for guidelines.
-- Feel free to open an issue or submit a pull request.
-
-## 📬 Get in Touch
-
-Let's connect! Whether you have a question, a project idea, or just want to chat about technology, we're all ears.
-
-- [LinkedIn](Your-LinkedIn-Profile)
-- [Twitter](Your-Twitter-Profile)
-- [Email](mailto:_________)
-
-Thank you for stopping by, and we look forward to connecting with you!
+*** I'm using markdown "reference style" links for readability.
+*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
+*** See the bottom of this document for the declaration of the reference variables
+*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
+-->
+  [![Contributors][contributors-shield]][contributors-url]
+  [![Forks][forks-shield]][forks-url]
+  [![Stargazers][stars-shield]][stars-url]
+  [![Issues][issues-shield]][issues-url]
+  [![MIT License][license-shield]][license-urlTEST]
 
 
 
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+  <a href="https://user-images.githubusercontent.com/104815254/210202269-3cd61184-861a-4d87-8cd9-948a48a8d81a.png">
+    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  </a>
+<img src="https://user-images.githubusercontent.com/104815254/210202323-684f6316-a86c-49de-84c4-b98517dc2c0e.png">
 
+  <h3 align="center">Best-README-Template</h3>
 
-<!-- Color coordinate images  -->
- 
-<h3 align="center"> Languages & Tools I use:</h3>
-<p align="center"> <a href="https://azure.com/" target="_blank">
-<img src="https://clipground.com/images/microsoft-azure-clipart-logo-4.png" alt="azure" width="40" height="40"/></a>
-<a href="https://code.visualstudio.com/" target="_blank"> 
-<img src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/vscode-icon.svg" alt="bootstrap" width="40" height="40"/> 
-<a href="https://www.w3schools.com/css/" target="_blank"> 
-<img src="https://img.icons8.com/color/48/000000/css3.png" alt="css3" width="40" height="40"/></a>
-<a href="https://metasploit.com/" target="_blank">
-<img src="https://assets.tryhackme.com/img/modules/metasploit.png" alt="Metasploit" width="40" height"/></a>
-<a href="https://tenable.com" target="_blank">    
-<img src="https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2019/01/nessus-logo-Ethical-Hacking-using-Kali-Linux-Edureka.png" alt="AD" width="40" height="40"/></a>
-<a href="http://https://www.tenable.com//" target="_blank">
-<img src="https://vectorified.com/images/active-directory-icon-26.png" alt="AD" width="40" height="40"/></a>
-<a href="http://nmap.org/" target="_blank">
-<img src="https://screenshots.dgtcdn.net/images/t_app-logo-l,f_auto,dpr_auto/p/c828c686-96d4-11e6-bce4-00163ec9f5fa/2413414525/nmap-logo" alt="nmap" width="40" height="40" /></a>
-<a href="https://www.mysql.com/" target="_blank">
-<img src="https://img.icons8.com/color/64/000000/sql.png" alt="sql" width="40" height="40"/></a>
-<a href="https://getbootstrap.com" target="_blank">
-<img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="bootstrap" width="40" height="40"/</a>
-<a href="https://www.python.org" target="_blank">
-<img src="https://img.icons8.com/color/48/000000/python.png" alt="python" width="40" height="40"/></a>
-<a href="https://cloud.google.com/" target="_blank">
-<img src="https://img.icons8.com/color/48/000000/google-cloud.png" alt="Google Cloud" width="40" height="40"/></a>
-<a href="https://kali.org/" target="_blank"> 
-<img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Forig12.deviantart.net%2F402b%2Ff%2F2015%2F318%2F9%2F6%2Fmortal_kombat_logo_2_by_llexandro-d9gpghl.png&f=1&nofb=1&ipt=56bc011d65a99ea52b81097395d92e15f3d3f7fe203b5100ed093be5b2a287ef&ipo=images" alt="git" width="40" height="40"/> 
-        </a> 
-<a href="https://git-scm.com/" target="_blank"> 
-<img src="https://img.icons8.com/color/48/000000/git.png" alt="git" width="40" height="40"/></a>
-<a href="https://www.w3.org/html/" target="_blank">  
-<img src="https://img.icons8.com/color/50/000000/html-5.png" alt="html5" width="40" height="40"/></a>
-<a href="https://www.linux.org/" target="_blank"> 
-<img src="https://img.icons8.com/color/48/000000/linux.png" alt="linux" width="40" height="40"/> 
-<a href="https://www.gnu.org/software/bash/">
-<img src="https://icon-library.com/images/bash-icon/bash-icon-23.jpg" alt="bash" width="40" height="40"/</a></p></h1>
- 
-<h1 align="center"></h4>
-
-<h2 align="center">Self-Hosting Linux Web Server</h1>
-
-</h2>
-<!--
-   - docs: Detailed documentation that captures the essence of each project.
-   - creds: A secure vault for credentials.
-   - logs: A record of activities, offering transparency and traceability.
-   - root: Root-level materials, providing an all-encompassing perspective.
-   - enum: Unveiling crucial insights through enumeration.
-   - tests: Testing to ensure robustness and efficacy.
-   - config: Configuration settings that fine-tune project behavior.
-   - examples: Illuminating examples that provide context and clarity.
-   - exploit: Crafted exploits that spotlight vulnerabilities.
-   - plugins: Enriching extensions that enhance project functionality.
-   - temp: Temporal files that serve immediate purposes.
-   - bin: Executable binaries resulting from meticulous development.
-   - backup: Secure backups for pivotal project components.
-   - web: A web-centric space for project-related activities.
-   - sandbox: An isolated environment for experimental iterations. -->
-
-<!-- This repository contains a series of projects relative to network security (attack and mitigation). 
-I work on the development of different projects related to network security, by studying 
-vulnerabilities and countermeasures in networking systems and communication protocols, I 
-developed a set of active attack mechanisms to infiltrate a system on different layers. -->
-
-<!-- Description document which defines the guidelines/deliverables and in some cases input and example of output files. -->
-
-<h3 align="center">
-<div><details><summary><b>𝚜𝚎𝚌𝚞𝚛𝚒𝚝𝚢 𝚝𝚘𝚙𝚒𝚌𝚜</summary></b>
-
-<div style="text-align: left;">
-
- 
-      Project: Network Analysis with Wireshark
-      Project: Building a Honeypot to Lure Cyber Intruders
-      Project: Firewall Rule Optimization for Maximum Security
-   <!--   Project D: Crafting Custom Intrusion Detection Signatures -->
-      Project: Exploiting Cross-Site Scripting Vulnerabilities
-  <!--    Project F: Securing Web Applications with OWASP Top Ten -->
-  <!--    Project G: Designing a Secure Multi-factor Authentication System -->
-   <!-- Project: Malware Analysis and Dynamic Behavior Profiling -->
-  <!--    Project: Wireless Network Penetration Testing (Wi-Fi Hacking) -->
-      Project: Bypassing Network Access Control Systems
-      Project: Secure Configuration of Network Routers and Switches
-      Project: Host-based Intrusion Detection System (HIDS) Setup
-   <!--   Project N: Cryptography for Network Traffic Encryption -->
-      Project: Cloud Security Configuration and Best Practices
- <!-- Project: Social Engineering and Phishing Simulations -->
-      Project: Vulnerability Scanning and Patch Management
-  <!--    Project S: Implementing a Software Defined Network (SDN)  -->
-<!--      Project T: Network Traffic Anomaly Detection using Machine Learning -->
-      Project: Secure VPN Setup and Configuration
- <!--     Project: DNS Packet Capture and Fields Parsing (Malicious Detection) -->
-   <!--   Project: Securing IoT Devices in a Home Network -->
-      Project: Continuous Security Monitoring with SIEM Solutions
+  <p align="center">
+    An awesome README template to jumpstart your projects!
+    <br />
+    <a href=""><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
+    <a href="">View Demo</a>
+    ·
+    <a href="">Report Bug</a>
+    ·
+    <a href="">Request Feature</a>
+  </p>
 </div>
 
-              
-   
-<p align="center"> <a href="https://www.azure.com" target="_blank"> <img src="https://raw.githubusercontent.com/pry0cc/axiom/master/screenshots/Referrals/azure_referral.png" 
- screenshots/Referrals/azure_referral.png/><img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" width="750" height="1">
+
+<!-- State yourself outline bit by bit>
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#about-the-project">About The Project</a>
+      <ul>
+        <li><a href="#built-with">Built With</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#getting-started">Getting Started</a>
+      <ul>
+        <li><a href="#prerequisites">Prerequisites</a></li>
+        <li><a href="#installation">Installation</a></li>
+      </ul>
+    </li>
+    <li><a href="#usage">Usage</a></li>
+    <li><a href="#roadmap">Roadmap</a></li>
+    <li><a href="#contributing">Contributing</a></li>
+    <li><a href="#license">License</a></li>
+    <li><a href="#contact">Contact</a></li>
+    <li><a href="#acknowledgments">Acknowledgments</a></li>
+  </ol>
+</details>
+
+
+<!-- Each section will have a breakdown behind the code>
+<!-- ABOUT THE PROJECT -->
+## About The Project
+
+[![Product Name Screen Shot][product-screenshot]](https://example.com)
+
+There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
+
+Here's why:
+* Your time should be focused on creating something amazing. A project that solves a problem and helps others
+* You shouldn't be doing the same tasks over and over like creating a README from scratch
+* You should implement DRY principles to the rest of your life :smile:
+
+Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
+
+Use the `BLANK_README.md` to get started.
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+
+
+### Built With
+
+This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+
+* [Next.js](https://nextjs.org/)
+* [React.js](https://reactjs.org/)
+* [Vue.js](https://vuejs.org/)
+* [Angular](https://angular.io/)
+* [Svelte](https://svelte.dev/)
+* [Laravel](https://laravel.com)
+* [Bootstrap](https://getbootstrap.com)
+* [JQuery](https://jquery.com)
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+
+
+<!-- GETTING STARTED -->
+## Getting Started
+
+This is an example of how you may give instructions on setting up your project locally.
+To get a local copy up and running follow these simple example steps.
+
+### Prerequisites
+
+This is an example of how to list things you need to use the software and how to install them.
+* npm
+  ```sh
+  npm install npm@latest -g
+  ```
+
+### Installation
+
+_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
+
+1. Get a free API Key at [https://example.com](https://example.com)
+2. Clone the repo
+   ```sh
+   git clone https://github.com/your_username_/Project-Name.git
+   ```
+3. Install NPM packages
+   ```sh
+   npm install
+   ```
+4. Enter your API in `config.js`
+   ```js
+   const API_KEY = 'ENTER YOUR API';
+   ```
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+
+
+<!-- USAGE EXAMPLES -->
+## Usage
+
+Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+
+_For more examples, please refer to the [Documentation](https://example.com)_
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+
+
+<!-- ROADMAP -->
+## Roadmap
+
+- [x] Add Changelog
+- [x] Add back to top links
+- [ ] Add Additional Templates w/ Examples
+- [ ] Add "components" document to easily copy & paste sections of the readme
+- [ ] Multi-language Support
+    - [ ] Chinese
+    - [ ] Spanish
+
+See the [open issues]() for a full list of proposed features (and known issues).
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+
+
+<!-- CONTRIBUTING -->
+## Contributing
+
+Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+
+If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
+Don't forget to give the project a star! Thanks again!
+
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+
+
+<!-- LICENSE -->
+## License
+
+Distributed under the MIT License. See `LICENSE.txt` for more information.
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+
+
+<!-- CONTACT -->
+## Contact
+
+Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+
+Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+
+
+<!-- ACKNOWLEDGMENTS -->
+## Acknowledgments
+
+Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
+
+* [Choose an Open Source License](https://choosealicense.com)
+* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
+* [Malven's Flexbox Cheatsheet](https://flexbox.malven.co/)
+* [Malven's Grid Cheatsheet](https://grid.malven.co/)
+* [Img Shields](https://shields.io)
+* [GitHub Pages](https://pages.github.com)
+* [Font Awesome](https://fontawesome.com)
+* [React Icons](https://react-icons.github.io/react-icons/search)
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[contributors-shield]: 
+[contributors-url]: 
+[forks-shield]: 
+[forks-url]: 
+[stars-shield]: 
+[stars-url]: 
+[issues-shield]:
+[issues-url]: 
+[license-shield]:
+[license-url]: 
+[linkedin-shield]:
+[linkedin-url]: 
+[product-screenshot]: images/screenshot.png
+
+
+
+Create a process work flow. Create a project management template. Check communication. 
+Set up personal SLAs.
+Incorporate a clean, organized method of progress.
