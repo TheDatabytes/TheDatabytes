@@ -140,7 +140,7 @@ _Below is an example of how you can instruct your audience on installing and set
 
 
 
-<!-- USAGE EXAMPLES -->
+<!-- USAGE EXAMPLES break down purpose -->
 ## Usage
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
