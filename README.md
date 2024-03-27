@@ -264,7 +264,6 @@ Use this space to list resources you find helpful and would like to give credit 
 [product-screenshot]: images/screenshot.png
 
 
-
-Create a process work flow. Create a project management template. Check communication. 
+<!-- Create a process work flow. Create a project management template. Check communication. 
 Set up personal SLAs.
-Incorporate a clean, organized method of progress.
+Incorporate a clean, organized method of progress. -->
