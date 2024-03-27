@@ -23,7 +23,7 @@
 
 
 
-  <h3 align="center">The Databytes' GitHub Profile</h3>
+  <h1 align="center">The Databytes </h1>
   
 <img src="https://cdn.dribbble.com/users/35253/screenshots/2688154/animatedmap.gif" alt="Descriptive Alt Text" width="1000" height="450" style="border: none;">
 
