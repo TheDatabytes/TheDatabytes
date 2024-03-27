@@ -225,7 +225,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Daniel J W Torres - [@danijordwiletor](https://twitter.com/danijordwiletor) -
+DJWT - [@danijordwiletor](https://twitter.com/danijordwiletor) -
 
 Project Link: [The Databytes GitHub Profile](https://github.com/thedatabytes)
 
