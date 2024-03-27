@@ -92,7 +92,7 @@ Why Follow Us?
 Getting Involved
 
   * Engaging with Content: Explore our tutorials and write-ups on [The Databyte blog]. Dive into topics that intrigue you and expand your knowledge and skills.
-  * GitHub Repository: Visit our [GitHub repository] to find all the resources associated with our articles. Star and fork the repository to stay updated and contribute.
+  * GitHub Repository: Visit our `TheDatabytes/README.md` to find all the resources associated with our articles. Star and fork the repository to stay updated and contribute.
   * Contribute: Whether you're interested in writing, coding, or sharing your expertise, we're always looking for contributors to enrich our content and resources.
 
 
