@@ -113,7 +113,7 @@ Use the `README-template.md` to get started.
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
 * [Particles.js](https://particles.js.org/)
-* [React.js](https://reactjs.org/)
+* [PHP](https://particles.js.org/)
 * [Vue.js](https://vuejs.org/)
 * [Angular](https://angular.io/)
 * [Svelte](https://svelte.dev/)
