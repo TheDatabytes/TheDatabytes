@@ -223,7 +223,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Daniel J W Torres - [@danijordwiletor](https://twitter.com/danijordwiletor) -
 
-Project Link: [https://github.com/thedatabytes](https://github.com/thedatabytes)
+Project Link: [The Databytes GitHub Profile](https://github.com/thedatabytes)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
